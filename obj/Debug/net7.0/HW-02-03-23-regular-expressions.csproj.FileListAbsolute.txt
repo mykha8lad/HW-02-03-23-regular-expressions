@@ -1,0 +1,15 @@
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\bin\Debug\net7.0\HW-02-03-23-regular-expressions.exe
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\bin\Debug\net7.0\HW-02-03-23-regular-expressions.deps.json
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\bin\Debug\net7.0\HW-02-03-23-regular-expressions.runtimeconfig.json
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\bin\Debug\net7.0\HW-02-03-23-regular-expressions.dll
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\bin\Debug\net7.0\HW-02-03-23-regular-expressions.pdb
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\obj\Debug\net7.0\HW-02-03-23-regular-expressions.csproj.AssemblyReference.cache
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\obj\Debug\net7.0\HW-02-03-23-regular-expressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\obj\Debug\net7.0\HW-02-03-23-regular-expressions.AssemblyInfoInputs.cache
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\obj\Debug\net7.0\HW-02-03-23-regular-expressions.AssemblyInfo.cs
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\obj\Debug\net7.0\HW-02-03-23-regular-expressions.csproj.CoreCompileInputs.cache
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\obj\Debug\net7.0\HW-02-03-23-regular-expressions.dll
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\obj\Debug\net7.0\refint\HW-02-03-23-regular-expressions.dll
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\obj\Debug\net7.0\HW-02-03-23-regular-expressions.pdb
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\obj\Debug\net7.0\HW-02-03-23-regular-expressions.genruntimeconfig.cache
+D:\c#-projects\HW-02-03-23-regular-expressions\HW-02-03-23-regular-expressions\obj\Debug\net7.0\ref\HW-02-03-23-regular-expressions.dll

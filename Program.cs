@@ -20,6 +20,18 @@ namespace HW_02_03_23_regular_expressions
             MatchCollection dateCollection = new Regex(dateRegexp).Matches(line);
             MatchCollection timeCollection = new Regex(timeRegexp).Matches(line);
 
+            Console.WriteLine($"Found males - {mailCollection.Count}");
+            foreach (Match mail in mailCollection)
+                Console.WriteLine($"< {mail.Value} >");
+
+            Console.WriteLine($"Found dates - {dateCollection.Count}");
+            foreach (Match date in dateCollection)
+                Console.WriteLine($"< {date.Value} >");
+
+            Console.WriteLine($"Found date time - {timeCollection.Count}");
+            foreach (Match time in timeCollection)
+                Console.WriteLine($"< {time.Value} >");
+
         }
     }
 }
