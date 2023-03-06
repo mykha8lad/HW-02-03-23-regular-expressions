@@ -16,6 +16,10 @@ namespace HW_02_03_23_regular_expressions
                 "Date registration: 24-03-2021T12:26:42" +
                 "End date: 30.03.2024";
 
+            MatchCollection mailCollection = new Regex(mailRegexp).Matches(line);
+            MatchCollection dateCollection = new Regex(dateRegexp).Matches(line);
+            MatchCollection timeCollection = new Regex(timeRegexp).Matches(line);
+
         }
     }
 }
